@@ -7,5 +7,5 @@ for (let i=0;i<64;i++){
 }
 
 while(playstop==0){
-    if 
+    if plays
 }
